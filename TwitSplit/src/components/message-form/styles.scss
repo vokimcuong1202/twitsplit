@@ -1,0 +1,55 @@
+$white: #ffffff;
+$lightGray: #e1e1e1;
+$blue: #007efa;
+$buleHover: #5B33FF;
+$littleLightGray: #edeff0;
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  .message-form {
+    width: 40% !important;
+    flex-wrap: wrap;
+    background: $white;
+    padding: 20px;
+    border: 1px solid $lightGray;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+    .title, .lable, .text {
+      width: 100%;
+    }
+
+    .title {
+      text-align: center;
+    }
+
+    .text {
+      border: 1px solid $littleLightGray;
+      padding: 0;
+      margin-top: 10px;
+    }
+
+    .btn-send {
+      margin-top: 10px;
+      width: 100%;
+      background: $blue;
+      border-radius: 4px;
+      border: 1px solid $blue;
+      color: $white;
+      height: 30px;
+
+      i {
+        color: $white;
+        padding-right: 5px;
+      }
+
+      &:hover {
+        background-color: $buleHover;
+      }
+    }
+  }
+}
