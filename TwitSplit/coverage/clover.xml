@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1552489284515" clover="3.2.0">
-  <project timestamp="1552489284515" name="All files">
-    <metrics statements="50" coveredstatements="43" conditionals="10" coveredconditionals="10" methods="11" coveredmethods="9" elements="71" coveredelements="62" complexity="0" loc="50" ncloc="50" packages="2" files="2" classes="2"/>
+<coverage generated="1552567082938" clover="3.2.0">
+  <project timestamp="1552567082938" name="All files">
+    <metrics statements="50" coveredstatements="50" conditionals="10" coveredconditionals="10" methods="11" coveredmethods="11" elements="71" coveredelements="71" complexity="0" loc="50" ncloc="50" packages="2" files="2" classes="2"/>
     <package name="message-form">
-      <metrics statements="46" coveredstatements="39" conditionals="10" coveredconditionals="10" methods="9" coveredmethods="7"/>
+      <metrics statements="46" coveredstatements="46" conditionals="10" coveredconditionals="10" methods="9" coveredmethods="9"/>
       <file name="MessageForm.js" path="C:\Users\baola\OneDrive\Desktop\TwitSplit\TwitSplit\src\components\message-form\MessageForm.js">
-        <metrics statements="46" coveredstatements="39" conditionals="10" coveredconditionals="10" methods="9" coveredmethods="7"/>
+        <metrics statements="46" coveredstatements="46" conditionals="10" coveredconditionals="10" methods="9" coveredmethods="9"/>
         <line num="9" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
@@ -44,14 +44,14 @@
         <line num="75" count="5" type="stmt"/>
         <line num="79" count="1" type="stmt"/>
         <line num="83" count="1" type="stmt"/>
-        <line num="87" count="0" type="stmt"/>
-        <line num="88" count="0" type="stmt"/>
-        <line num="89" count="0" type="stmt"/>
-        <line num="90" count="0" type="stmt"/>
-        <line num="91" count="0" type="stmt"/>
-        <line num="101" count="0" type="stmt"/>
-        <line num="102" count="0" type="stmt"/>
-        <line num="105" count="23" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="105" count="28" type="stmt"/>
       </file>
     </package>
     <package name="modal">
@@ -59,8 +59,8 @@
       <file name="Modal.js" path="C:\Users\baola\OneDrive\Desktop\TwitSplit\TwitSplit\src\components\modal\Modal.js">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="5" count="2" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="12" count="2" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
         <line num="21" count="2" type="stmt"/>
       </file>
     </package>
